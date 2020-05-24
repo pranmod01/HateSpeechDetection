@@ -1,5 +1,5 @@
-## HateSpeechDetection
-# Coding exercise for Trust Labs
+# HateSpeechDetection
+## Coding exercise for Trust Labs
 
 The sub-problems I tried to solve are:
 1) Building a testing data set by extract tweets from Twitter with specific keywords, using the tweepy API 
